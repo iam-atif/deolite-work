@@ -20,7 +20,6 @@ function Section5() {
               width: "90%",
               margin: "auto",
               height: "40px",
-              border: "0px",
               borderRadius: "7px",
               padding: "10px",
 
