@@ -23,7 +23,7 @@ function Section5() {
               border: "0px",
               borderRadius: "7px",
               padding: "10px",
-              border: "none",
+
               border: "0",
               lineHeight: "100%",
             }}
